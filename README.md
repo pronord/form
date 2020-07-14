@@ -1,4 +1,4 @@
-https://pronord.github.io
+https://pronord.github.io/form/
 
 v0.0.3
 # pronord.github.io
